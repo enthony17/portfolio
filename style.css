@@ -1,0 +1,88 @@
+body{
+
+background-color: dimgray;
+color: indigo;
+text-align: center;
+
+
+
+
+}
+
+.all-browsers {
+    margin: 0;
+    padding: 5px;
+    background-color: lightgray;
+  }
+  
+  .all-browsers > h1, .browser {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .browser {
+    background: white;
+  }
+  
+  .browser > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+
+article{
+    background-color: #ffffff;
+    margin: 5; /* Remova margens para cobrir toda a janela */
+    padding: 5; /* Remova o preenchimento para cobrir toda a janela*/
+}
+
+
+
+footer{
+
+    background-color: #edf57b;
+    margin: 5; /* Remova margens para cobrir toda a janela */
+    padding: 5;
+}
+
+
+figure{
+
+text-align: right;
+border-radius: 100%;
+border: #8b4788;
+
+}
+
+nav{
+    background-color: #e985cb;
+    margin: 5; /* Remova margens para cobrir toda a janela */
+    padding: 5;
+}
+
+
+header{
+    background-color: #7de48e;
+    margin: 5; /* Remova margens para cobrir toda a janela */
+    padding: 5;
+}
+    
+div.aside{
+
+}
+
+
+aside{
+flex-direction: column-reverse;
+    background-color: #e9858a;
+    margin: 5; /* Remova margens para cobrir toda a janela */
+    padding: 5;
+    
+}
+
+section{
+    background-color: #752196;
+    margin: 5; /* Remova margens para cobrir toda a janela */
+    padding: 5;
+}
+
+
