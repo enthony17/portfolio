@@ -73,9 +73,6 @@ header{
     padding: 5;
 }
     
-div.aside{
-
-}
 
 
 aside{
@@ -103,6 +100,100 @@ section{
     text-align: center;
   
     
+
+
+
+
+
+
+
+    .all-browsers {
+      margin: 0;
+      padding: 5px;
+      background-color: rgb(127, 134, 18);
+    }
+    
+    .all-browsers > h1, .browser {
+      margin: 10px;
+      padding: 5px;
+    }
+    
+    .browser {
+      background: rgb(6, 25, 134);
+    }
+    
+    .browser > h2, p {
+      margin: 4px;
+      font-size: 90%;
+    }
+  
+  article{
+      background-color: #c55c5c;
+      margin: 5; /* Remova margens para cobrir toda a janela */
+      padding: 5; /* Remova o preenchimento para cobrir toda a janela*/
+  }
+  
+  
+  
+  footer{
+  
+      background-color: #077d92;
+      margin: 5; /* Remova margens para cobrir toda a janela */
+      padding: 5;
+  }
+  
+  
+  figure{
+  
+  text-align: right;
+  border-radius: 100%;
+  border: #8b4788;
+  
+  }
+  
+  nav{
+      background-color: #310e27;
+      margin: 5; /* Remova margens para cobrir toda a janela */
+      padding: 5;
+  }
+  
+  
+  header{
+      background-color: #122c17;
+      margin: 5; /* Remova margens para cobrir toda a janela */
+      padding: 5;
+  }
+      
+  
+  
+  aside{
+  flex-direction: column-reverse;
+      background-color: #a5494d;
+      margin: 5; /* Remova margens para cobrir toda a janela */
+      padding: 5;
+      
+  }
+  
+  section{
+      background-color: #452d4e;
+      margin: 5; /* Remova margens para cobrir toda a janela */
+      padding: 5;
+  }
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     }
     
