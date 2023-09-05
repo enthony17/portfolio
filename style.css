@@ -84,7 +84,7 @@ max-width: 100%;
 @media  screen and (max-width: 100%) {
   body{
 
-    background-color: dimgray;
+    background-color: rgb(155, 17, 17);
     color: rgb(142, 116, 160);
     text-align: center;
     
