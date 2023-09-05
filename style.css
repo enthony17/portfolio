@@ -92,3 +92,26 @@ max-width: 100%;
 
 }
 
+@media  and (max-width:100%){
+
+body{
+
+  background-color: black;
+
+
+}
+
+}
+
+@media  and (min-width:48px){
+
+  body{
+
+    background-color: #752196;
+  }
+  
+    
+
+
+
+}
