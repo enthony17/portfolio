@@ -1,13 +1,3 @@
-body{
-
-background-color: dimgray;
-color: indigo;
-text-align: center;
-
-
-
-
-}
 
 .all-browsers {
     margin: 0;
@@ -94,13 +84,17 @@ max-width: 100%;
  
 @media screen and (max-width:100%){
 
-body{
+  body{
 
-  background-color: black;
-
-
-}
-
+    background-color: dimgray;
+    color: indigo;
+    text-align: center;
+    
+    
+    
+    
+    }
+    
 }
 
 @media screen and (min-width:48px){
