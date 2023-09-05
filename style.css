@@ -96,7 +96,7 @@ section{
   body{
 
     background-color: rgb(155, 17, 17);
-    color: rgb(142, 116, 160);
+    color: rgb(255, 255, 255);
     text-align: center;
   
     
@@ -168,14 +168,14 @@ section{
   
   aside{
   flex-direction: column-reverse;
-      background-color: #a5494d;
+      background-color: #e9858a;
       margin: 5; /* Remova margens para cobrir toda a janela */
       padding: 5;
       
   }
   
   section{
-      background-color: #452d4e;
+      background-color: #752196;
       margin: 5; /* Remova margens para cobrir toda a janela */
       padding: 5;
   }
